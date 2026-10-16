@@ -21,14 +21,6 @@ Conecto fontes, organizo informações e entrego insights claros que apoiam deci
 - 🎓 Cursando **Engenharia de Software**
 - 🤖 Uso avançado de **IA (Claude)** para acelerar análises e automações
 
-### 🔄 Como eu trabalho
-
-```
-🔗 Integração  →  🛡️ Tratamento & Modelagem  →  📈 Análise & Decisão
-Planilhas, SQL,    Limpeza e modelagem com      Dashboards interativos
-APIs, ERPs, CRMs   Python e SQL                 e insights estratégicos
-```
-
 ### 🧰 Tecnologias
 
 <div align="center">
@@ -47,27 +39,6 @@ APIs, ERPs, CRMs   Python e SQL                 e insights estratégicos
 
 </div>
 
-### 🚀 Projetos em destaque
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| 📊 **Dashboard de Vendas** | KPIs de faturamento, metas e análise por região | Power BI · DAX · SQL |
-| 🗄️ **Análise de Clientes** | Segmentação e recorrência para estratégias de retenção | SQL · Excel |
-| 🐍 **Automação de Relatórios** | Coleta, trata e envia relatórios automaticamente | Python · Pandas |
-| 🌐 **Site Institucional** | Site responsivo para cliente freelance | HTML · CSS · JS |
-| 📗 **Controle Financeiro** | Planilha automatizada com gráficos | Excel · Power Query |
-| 🤖 **Assistente de Análise** | IA para acelerar análises exploratórias | Claude · Python |
-
-### 📈 Estatísticas
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=JorgeNelson21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=22d3ee&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeNelson21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JorgeNelson21&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=22d3ee&currStreakLabel=22d3ee" />
-
-</div>
 
 ### 📫 Contato
 
